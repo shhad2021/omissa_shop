@@ -1,6 +1,6 @@
 # omissa_shop
 
-A new Flutter project.
+om issa shop.
 
 ## Getting Started
 
