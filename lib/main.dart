@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'constants.dart';
 import 'screens/home/home_screen.dart';
 
@@ -19,5 +20,12 @@ class MyApp extends StatelessWidget {
       ),
       home: HomeScreen(),
     );
+  }
+}
+
+class Ali extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
   }
 }
